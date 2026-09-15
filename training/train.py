@@ -174,7 +174,7 @@ def main():
     print("MODELO SALVO")
     print("=" * 70)
 
-    print(f"\nArquivo:")
+    print("\nArquivo:")
     print(MODEL_PATH)
 
     print("\nTreinamento finalizado com sucesso!")
