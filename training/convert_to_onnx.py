@@ -49,7 +49,7 @@ def main():
     with open(ONNX_PATH, "wb") as f:
         f.write(onnx_model.SerializeToString())
 
-    print(f"\nModelo ONNX salvo em:")
+    print("\nModelo ONNX salvo em:")
     print(ONNX_PATH)
 
     # Validar arquivo
