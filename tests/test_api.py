@@ -7,7 +7,7 @@ from fastapi.testclient import TestClient
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 
-from app.main import app
+from app.main import app # noqa: E402
 
 
 client = TestClient(app)
