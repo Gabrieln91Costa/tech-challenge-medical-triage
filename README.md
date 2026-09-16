@@ -1,6 +1,11 @@
 # Medical Triage NLP
 
+
 [![CI/CD Medical Triage](https://github.com/Gabrieln91Costa/tech-challenge-medical-triage/actions/workflows/ci.yml/badge.svg)](https://github.com/Gabrieln91Costa/tech-challenge-medical-triage/actions/workflows/ci.yml)
+
+
+PDF -  (Pasta docs) - Medical_Triage_NLP_Cenario_Arquitetura_e_Requisitos.pdf
+
 
 Projeto de **Machine Learning aplicado à classificação de textos médicos**, desenvolvido para o **Tech Challenge – Deploy de Modelo em Produção com Pipeline CI/CD, Monitoramento e Otimização de Latência**.
 
